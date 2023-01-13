@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # A thousand and one various projects - Summary
 
-## Learning
+## University Studying and Learning
 - [LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)
 - [Earth3D - Learning OpenGL](https://github.com/Lib3Rt9/Earth3D)
 - [Learning OpenGL #2](https://github.com/Lib3Rt9/LearnOpenGL)
