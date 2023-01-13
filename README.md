@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-A thousand and one various projects - Summary
+# A thousand and one various projects - Summary
