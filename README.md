@@ -20,38 +20,38 @@ Here are some ideas to get you started:
 
 ## University Studying and Learning
 
-**Web Application Development**
-- [LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)
+***Web Application Development***
+- *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
 
-**Computer Graphics**
+***Computer Graphics***
 - *[Earth3D - Learning OpenGL](https://github.com/Lib3Rt9/Earth3D)*
-- [Learning OpenGL #2](https://github.com/Lib3Rt9/LearnOpenGL)
+- *[Learning OpenGL #2](https://github.com/Lib3Rt9/LearnOpenGL)*
 
-**Internship**
-- [CropWeedSegmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (Private)
+***Internship***
+- *[CropWeedSegmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (Private)*
 
-**Database**
-- [Database - A friend's repository](https://github.com/aidenpearce001/University-s-Project)
+***Database***
+- *[Database - A friend's repository](https://github.com/aidenpearce001/University-s-Project)*
 
-**Mobile Application Development**
-- [Mobile Application Development - Android](https://github.com/Lib3Rt9/androiddev2022)
+***Mobile Application Development***
+- *[Mobile Application Development - Android](https://github.com/Lib3Rt9/androiddev2022)*
 
-**Advanced Programming with Python**
-- [Advanced Programming with Python](https://github.com/Lib3Rt9/pp2021)
+***Advanced Programming with Python***
+- *[Advanced Programming with Python](https://github.com/Lib3Rt9/pp2021)*
 
-**Operating System**
-- [Operating System](https://github.com/Lib3Rt9/OS2020)
+***Operating System***
+- *[Operating System](https://github.com/Lib3Rt9/OS2020)*
 
 ## Testing
-- [A Git testing repository](https://github.com/Lib3Rt9/testGit)
+- *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
 ## Python projects
-- [Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)
-- [Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (Private)
-- [Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)
+- *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
+- *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (Private)
+- *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
 
 ## Machine Learning
-- [Forked - 100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects)
+- *[Forked - 100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects)*
 
 
 **Have fun!**
