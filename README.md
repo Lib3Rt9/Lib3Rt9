@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 # A thousand and one various projects - Summary
 
+
 ## University Studying and Learning
 
 **Web Application Development**
