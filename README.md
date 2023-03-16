@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## Testing
 - *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
-## Python projects
+## Python funky projects
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
 - *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (Private)*
 - *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
