@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
 
 ***Computer Graphics***
-- *[Earth3D - Learning OpenGL](https://github.com/Lib3Rt9/Earth3D)*
-- *[Learning OpenGL #2](https://github.com/Lib3Rt9/LearnOpenGL)*
+- *[Earth3D - Learning OpenGL](https://github.com/Lib3Rt9/Learn_OpenGL)*
+- *[Learning OpenGL #2](https://github.com/Lib3Rt9/Learn_OpenGL)*
 
 ***Internship***
 - *[CropWeedSegmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (Private)*
