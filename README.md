@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # A thousand and one various projects - Summary
 
-## University Work
+## University Works
 
 ***Web Application Development***
 - *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
