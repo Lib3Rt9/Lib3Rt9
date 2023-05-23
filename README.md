@@ -26,14 +26,13 @@ Here are some ideas to get you started:
 - *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
 
 ***Computer Graphics***
-- *[Earth3D - Learning OpenGL](https://github.com/Lib3Rt9/Learn_OpenGL)*
-- *[Learning OpenGL #2](https://github.com/Lib3Rt9/Learn_OpenGL)*
+- *[Learning OpenGL](https://github.com/Lib3Rt9/Learn_OpenGL)*
 
 ***Internship***
-- *[CropWeedSegmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
+- *[Crop(Weed)Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
 
 ***Database***
-- *[Database - A friend's repository](https://github.com/aidenpearce001/University-s-Project)*
+- *[Database](https://github.com/aidenpearce001/University-s-Project)*
 
 ***Mobile Application Development***
 - *[Mobile Application Development - Android](https://github.com/Lib3Rt9/androiddev2022)*
