@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 ## Machine Learning
 - *[Forked - 100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects)*
+- *[Image Similarity](https://github.com/Lib3Rt9/Image_Similarity)*
 
 ##################################################################
 
