@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # A thousand and one various projects - Summary
 
-#################################
+##################################################################
 
 ## University Works
 
@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 ***Operating System***
 - *[Operating System](https://github.com/Lib3Rt9/OS2020)*
 
-#################################
+##################################################################
 
 ## Testing
 - *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
-#################################
+##################################################################
 
 ## Python funky projects
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
@@ -58,16 +58,16 @@ Here are some ideas to get you started:
 - *[Simple Assistant](https://github.com/Lib3Rt9/SimpleAssistant)*
 - *[Image Converter](https://github.com/Lib3Rt9/Image_Converter)*
 
-#################################
+##################################################################
 
 ## Machine Learning
 - *[Forked - 100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects)*
 
-#################################
+##################################################################
 
 ## Computer Vision
 - *[Hand Tracking](https://github.com/Lib3Rt9/HandTracking)*
 
-#################################
+##################################################################
 
 **Have fun!**
