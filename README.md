@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ## Computer Vision
 - *[Hand Tracking](https://github.com/Lib3Rt9/HandTracking)*
-- *[Re-scaling Images](https://github.com/Lib3Rt9/ImageScaler)*
+- *[Images Scaler](https://github.com/Lib3Rt9/ImageScaler)*
 
 ##################################################################
 
