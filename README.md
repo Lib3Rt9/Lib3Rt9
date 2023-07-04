@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
 
 ***Computer Graphics***
-- *[Learning OpenGL](https://github.com/Lib3Rt9/Learn_OpenGL)*
+- *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
 ***Internship***
 - *[Crop(Weed)Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
@@ -54,19 +54,21 @@ Here are some ideas to get you started:
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
 - *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (PRIVATE)*
 - *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
+- *[Number Generator](https://github.com/Lib3Rt9/PythonProjects/tree/number_generator)*
 - *[Simple Assistant](https://github.com/Lib3Rt9/SimpleAssistant)*
-- *[Image Converter](https://github.com/Lib3Rt9/Image_Converter)*
+- *[Image Converter](https://github.com/Lib3Rt9/ImageConverter)*
 
 ##################################################################
 
 ## Machine Learning
 - *[100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects) (FORKED)*
-- *[Image Similarity](https://github.com/Lib3Rt9/Image_Similarity)*
+- *[Image Similarity](https://github.com/Lib3Rt9/ImageSimilarity)*
 
 ##################################################################
 
 ## Computer Vision
 - *[Hand Tracking](https://github.com/Lib3Rt9/HandTracking)*
+- *[Re-scaling Images](https://github.com/Lib3Rt9/ImageScaler)*
 
 ##################################################################
 
