@@ -70,4 +70,10 @@ Here are some ideas to get you started:
 
 ##################################################################
 
+## sort by projects
+
+- *[Infobip plugin for playSMS](https://github.com/Lib3Rt9/playSMS-Infobip-plugin)*
+
+##################################################################
+
 **Have fun!**
