@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
 ***Internship***
-- *[Crop(Weed)Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
+- *[Crop (Weed) Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
 
 ***Database***
 - *[Database](https://github.com/aidenpearce001/University-s-Project)*
