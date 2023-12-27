@@ -50,6 +50,11 @@ Here are some ideas to get you started:
 
 ##################################################################
 
+## C++
+- *[AndroidTrainingFramework-AF](https://github.com/Lib3Rt9/AndroidTrainingFramework-AF) (PRIVATE)*
+
+##################################################################
+
 ## Python funky projects
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
 - *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (PRIVATE)*
