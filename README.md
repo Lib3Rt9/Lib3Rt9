@@ -45,6 +45,13 @@ Here are some ideas to get you started:
 
 ##################################################################
 
+## Master Works (Master degree)
+
+***Deep Learning***
+- *[Deep Learning](https://github.com/Lib3Rt9/dl2024)*
+
+##################################################################
+
 ## Testing
 - *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
