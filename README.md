@@ -23,23 +23,17 @@ Here are some ideas to get you started:
 ## University Works
 
 ***Web Application Development***
-- *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
-
+- *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)
 ***Computer Graphics***
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
-
 ***Internship***
 - *[Crop (Weed) Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
-
 ***Database***
 - *[Database](https://github.com/aidenpearce001/University-s-Project)*
-
 ***Mobile Application Development***
 - *[Mobile Application Development - Android](https://github.com/Lib3Rt9/androiddev2022)*
-
 ***Advanced Programming with Python***
 - *[Advanced Programming with Python](https://github.com/Lib3Rt9/pp2021)*
-
 ***Operating System***
 - *[Operating System](https://github.com/Lib3Rt9/OS2020)*
 
