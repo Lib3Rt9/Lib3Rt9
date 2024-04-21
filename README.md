@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 # A thousand and one various projects - Summary
 
 Some simple funny rules for prefix: :)
--`    +    for a new feature
--`    -    for a modified feature
--`    *    for a bugfix
--`    !    for an important note
+-    `+`    for a new feature
+-    `-`    for a modified feature
+-    `*`    for a bugfix
+-    `!`    for an important note
 
 ##################################################################
 
