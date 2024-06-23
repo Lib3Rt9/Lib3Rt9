@@ -56,6 +56,9 @@ Some simple funny rules for prefix: :)
 ***Deep Learning***
 - *[Deep Learning](https://github.com/Lib3Rt9/dl2024)*
 
+***From Sensors to Users***
+- *[From Sensors to Users](https://github.com/Lib3Rt9/FromSensorsToUsers)*
+
 ##################################################################
 
 ## Testing
