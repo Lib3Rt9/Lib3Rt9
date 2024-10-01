@@ -59,6 +59,9 @@ Some simple funny rules for prefix: :)
 ***From Sensors to Users***
 - *[From Sensors to Users](https://github.com/Lib3Rt9/FromSensorsToUsers)*
 
+***Cloud and Big Data***
+- *[Cloud and Big Data](https://github.com/Lib3Rt9/CoursCloudN7)*
+
 ##################################################################
 
 ## Testing
