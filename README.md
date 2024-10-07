@@ -24,6 +24,9 @@ Some simple funny rules for prefix: :)
 -    `*`    for a bugfix
 -    `!`    for an important note
 
+
+[Private Repository](https://github.com/Lib3Rt9/Private)
+
 ##################################################################
 
 ## University Works
