@@ -65,6 +65,9 @@ Some simple funny rules for prefix: :)
 ***Cloud and Big Data***
 - *[Cloud and Big Data](https://github.com/Lib3Rt9/CoursCloudN7)*
 
+***Advanced Programming with High Performance Computing***
+- *[Advanced Programming with High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
+
 ##################################################################
 
 ## Testing
