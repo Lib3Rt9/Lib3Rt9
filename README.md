@@ -32,7 +32,7 @@ Some simple funny rules for prefix: :)
 ## University Works
 
 ***Web Application Development***
-- *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
+- *[**LightUp - Multiplayer casual game**](https://github.com/Lib3Rt9/LightUp)*
 
 ***Computer Graphics***
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
@@ -65,8 +65,8 @@ Some simple funny rules for prefix: :)
 ***Cloud and Big Data***
 - *[Cloud and Big Data](https://github.com/Lib3Rt9/CoursCloudN7)*
 
-***Advanced Programming with High Performance Computing***
-- *[Advanced Programming with High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
+***Advanced Programming for High Performance Computing***
+- *[Advanced Programming for High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
 
 ##################################################################
 
