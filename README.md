@@ -32,7 +32,7 @@ Some simple funny rules for prefix: :)
 ## University Works
 
 ***Web Application Development***
-- *[**LightUp - Multiplayer casual game**](https://github.com/Lib3Rt9/LightUp)*
+- [**LightUp - Multiplayer casual game**](https://github.com/Lib3Rt9/LightUp)
 
 ***Computer Graphics***
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
