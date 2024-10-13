@@ -80,7 +80,7 @@ Some simple funny rules for prefix: :)
 
 ##################################################################
 
-## Python funky projects
+## Python
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
 - *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (PRIVATE)*
 - *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
@@ -90,15 +90,15 @@ Some simple funny rules for prefix: :)
 
 ##################################################################
 
-## Machine Learning
-- *[100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects) (FORKED)*
-- *[Image Similarity](https://github.com/Lib3Rt9/ImageSimilarity) (PRIVATE)*
-
-##################################################################
-
 ## Computer Vision
 - *[Hand Tracking](https://github.com/Lib3Rt9/HandTracking)*
 - *[Images Scaler](https://github.com/Lib3Rt9/ImageScaler)*
+
+##################################################################
+
+## Machine Learning
+- *[100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects) (FORKED)*
+- *[Image Similarity](https://github.com/Lib3Rt9/ImageSimilarity) (PRIVATE)*
 
 ##################################################################
 
