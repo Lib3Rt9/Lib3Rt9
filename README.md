@@ -63,7 +63,7 @@ Some simple funny rules for prefix: :)
 - *[From Sensors to Users](https://github.com/Lib3Rt9/FromSensorsToUsers)*
 
 ***Cloud and Big Data***
-- *[Cloud and Big Data](https://github.com/Lib3Rt9/CoursCloudN7)*
+- *[Cloud and Big Data](https://github.com/Lib3Rt9/CloudAndBigData)*
 
 ***Advanced Programming for High Performance Computing***
 - *[Advanced Programming for High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
