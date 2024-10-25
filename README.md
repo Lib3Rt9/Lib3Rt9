@@ -41,7 +41,7 @@ Some simple funny rules for prefix: :)
 - *[Crop (Weed) Analysis on UAV Images (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
 
 ***Database***
-- *[Database](https://github.com/aidenpearce001/University-s-Project)*
+- *[Database](https://github.com/aidenpearce001/University-s-Project/tree/main/Basic%20Database)*
 
 ***Mobile Application Development***
 - *[Music Player (Android)](https://github.com/Lib3Rt9/androiddev2022)*
