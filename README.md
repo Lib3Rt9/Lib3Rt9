@@ -38,13 +38,13 @@ Some simple funny rules for prefix: :)
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
 ***Internship***
-- *[Crop (Weed) Segmentation - Machine Learning](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
+- *[Crop (Weed) Segmentation (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
 
 ***Database***
 - *[Database](https://github.com/aidenpearce001/University-s-Project)*
 
 ***Mobile Application Development***
-- *[Mobile Application Development - Android](https://github.com/Lib3Rt9/androiddev2022)*
+- *[Music Player Application (Android)](https://github.com/Lib3Rt9/androiddev2022)*
 
 ***Advanced Programming with Python***
 - *[Advanced Programming with Python](https://github.com/Lib3Rt9/pp2021)*
@@ -55,15 +55,17 @@ Some simple funny rules for prefix: :)
 ##################################################################
 
 ## Master Works (Master degree)
+***Machine Learning***
+- *[Image Similarity with Deep Learning](https://github.com/Lib3Rt9/ImageSimilarity)*
 
 ***Deep Learning***
-- *[Deep Learning](https://github.com/Lib3Rt9/dl2024)*
+- *[Convolutional Neural Network from scratch](https://github.com/Lib3Rt9/dl2024)*
 
 ***From Sensors to Users***
-- *[From Sensors to Users](https://github.com/Lib3Rt9/FromSensorsToUsers)*
+- *[Smart Home Monitoring and Security System](https://github.com/Lib3Rt9/FromSensorsToUsers)*
 
 ***Cloud and Big Data***
-- *[Cloud and Big Data](https://github.com/Lib3Rt9/CloudAndBigData)*
+- *[Service for the Automatic Deployment of a Big Data Application in a Virtualized Environment](https://github.com/Lib3Rt9/CloudAndBigData)*
 
 ***Advanced Programming for High Performance Computing***
 - *[Advanced Programming for High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
@@ -85,8 +87,8 @@ Some simple funny rules for prefix: :)
 - *[Keystroke Logging](https://github.com/Lib3Rt9/Keylogger) (PRIVATE)*
 - *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
 - *[Number Generator](https://github.com/Lib3Rt9/PythonProjects/tree/number_generator)*
-- *[Simple Assistant](https://github.com/Lib3Rt9/SimpleAssistant)*
 - *[Image Converter](https://github.com/Lib3Rt9/ImageConverter)*
+- *[Placeholder for Video Converter](placeholder)*
 
 ##################################################################
 
@@ -98,7 +100,6 @@ Some simple funny rules for prefix: :)
 
 ## Machine Learning
 - *[100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects) (FORKED)*
-- *[Image Similarity](https://github.com/Lib3Rt9/ImageSimilarity) (PRIVATE)*
 
 ##################################################################
 
