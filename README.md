@@ -32,19 +32,19 @@ Some simple funny rules for prefix: :)
 ## University Works
 
 ***Web Application Development***
-- *[LightUp - Multiplayer casual game](https://github.com/Lib3Rt9/LightUp)*
+- *[LightUp - Multiplayer Draw-and-Guess game](https://github.com/Lib3Rt9/LightUp)*
 
 ***Computer Graphics***
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
 ***Internship***
-- *[Crop (Weed) Segmentation (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
+- *[Crop (Weed) Analysis on UAV Images (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
 
 ***Database***
 - *[Database](https://github.com/aidenpearce001/University-s-Project)*
 
 ***Mobile Application Development***
-- *[Music Player Application (Android)](https://github.com/Lib3Rt9/androiddev2022)*
+- *[Music Player (Android)](https://github.com/Lib3Rt9/androiddev2022)*
 
 ***Advanced Programming with Python***
 - *[Advanced Programming with Python](https://github.com/Lib3Rt9/pp2021)*
@@ -59,7 +59,7 @@ Some simple funny rules for prefix: :)
 - *[Image Similarity with Deep Learning](https://github.com/Lib3Rt9/ImageSimilarity)*
 
 ***Deep Learning***
-- *[Convolutional Neural Network from scratch](https://github.com/Lib3Rt9/dl2024)*
+- *[Convolutional Neural Network (CNN) from scratch](https://github.com/Lib3Rt9/dl2024)*
 
 ***From Sensors to Users***
 - *[Smart Home Monitoring and Security System](https://github.com/Lib3Rt9/FromSensorsToUsers)*
