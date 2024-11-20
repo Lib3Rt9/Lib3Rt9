@@ -55,6 +55,9 @@ Some simple funny rules for prefix: :)
 ##################################################################
 
 ## Master Works (Master degree)
+***System Architecture***
+- *[placeholder for system architecture](placeholder)*
+  
 ***Machine Learning***
 - *[Image Similarity with Deep Learning](https://github.com/Lib3Rt9/ImageSimilarity)*
 
