@@ -38,7 +38,7 @@ Some simple funny rules for prefix: :)
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
 ***Internship***
-- *[Crop (Weed) Analysis on UAV Images (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation) (PRIVATE)*
+- *[Crop (Weed) Analysis on UAV Images (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation)*
 
 ***Database***
 - *[Database](https://github.com/aidenpearce001/University-s-Project/tree/main/Basic%20Database)*
@@ -72,6 +72,9 @@ Some simple funny rules for prefix: :)
 
 ***Advanced Programming for High Performance Computing***
 - *[Advanced Programming for High Performance Computing](https://github.com/Lib3Rt9/advancedhpc2024)*
+
+***Master 1 Internship***
+- *[Skin Cancer Classification using Deep Learning](https://github.com/Lib3Rt9/SkinCancerClassification)*
 
 ##################################################################
 
