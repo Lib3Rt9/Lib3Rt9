@@ -76,6 +76,9 @@ Some simple funny rules for prefix: :)
 ***Master 1 Internship***
 - *[Skin Cancer Classification using Deep Learning](https://github.com/Lib3Rt9/SkinCancerClassification)*
 
+***Modeling and Simulation of complex system***
+- *[Driftwood - Self-regulating access to natural resources](https://github.com/Lib3Rt9/SkinCancerClassification)*
+
 ##################################################################
 
 ## Testing
