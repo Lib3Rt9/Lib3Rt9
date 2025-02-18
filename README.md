@@ -27,6 +27,8 @@ Some simple funny rules for prefix: :)
 
 [Private Repository](https://github.com/Lib3Rt9/Private)
 
+There are some projects I keep as Private, and some are not updated regularly, so, for me-self, please check when accessing these projects. Have fun!
+
 ##################################################################
 
 ## University Works
