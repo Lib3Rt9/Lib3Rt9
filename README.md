@@ -25,9 +25,8 @@ Some simple funny rules for prefix: :)
 -    `!`    for an important note
 
 
-[Private Repository](https://github.com/Lib3Rt9/Private)
 
-*There are some projects I keep as Private, and some are not updated regularly.*
+*There are some projects I keep as [Private](https://github.com/Lib3Rt9/Private), and some are not updated regularly.*
 
 *So, for me-self, please check when accessing these projects.*
 
