@@ -62,7 +62,7 @@ Some simple funny rules for prefix: :)
 
 ## Master Works (Master degree)
 ***System Architecture***
-- *[SystemArchitecture - project Chatting room](https://github.com/Lib3Rt9/SystemArchitecture)*
+- *[Chatting room](https://github.com/Lib3Rt9/SystemArchitecture)*
   
 ***Machine Learning***
 - *[Image Similarity with Deep Learning](https://github.com/Lib3Rt9/ImageSimilarity)*
