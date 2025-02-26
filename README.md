@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # A thousand and one various projects
 
-*There are some projects I keep as [Private](https://github.com/Lib3Rt9/Private), and some are not updated regularly.*
+*There are some projects I keep as [Private](https://github.com/Lib3Rt9/Private), and some are not updated.*
 
 *So, for me-self, please check when accessing these projects.*
 
