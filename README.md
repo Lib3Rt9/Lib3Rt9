@@ -16,21 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
-# A thousand and one various projects - Summary
-
-Some simple funny rules for prefix: :)
--    `+`    for a new feature
--    `-`    for a modified feature
--    `*`    for a bugfix
--    `!`    for an important note
-
-
+# A thousand and one various projects
 
 *There are some projects I keep as [Private](https://github.com/Lib3Rt9/Private), and some are not updated regularly.*
 
 *So, for me-self, please check when accessing these projects.*
 
 *Have fun!*
+
+Some simple and  funny rules for prefix: :)
+-    `+`    for a new feature
+-    `-`    for a modified feature
+-    `*`    for a bugfix
+-    `!`    for an important note
+
 
 ##################################################################
 
