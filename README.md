@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 *Have fun!*
 
+-----------------------------------------------------------------
+
 Some simple and  funny rules for prefix: :)
 -    `+`    for a new feature
 -    `-`    for a modified feature
