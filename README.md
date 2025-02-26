@@ -33,7 +33,7 @@ Some simple and  funny rules for prefix: :)
 -    `!`    for an important note
 
 
-##################################################################
+-----------------------------------------------------------------
 
 ## University Works
 
@@ -58,7 +58,7 @@ Some simple and  funny rules for prefix: :)
 ***Operating System***
 - *[Operating System](https://github.com/Lib3Rt9/OS2020)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## Master Works (Master degree)
 ***System Architecture***
@@ -85,17 +85,17 @@ Some simple and  funny rules for prefix: :)
 ***Modeling and Simulation of complex system***
 - *[Driftwood - Self-regulating access to natural resources](https://github.com/Lib3Rt9/SkinCancerClassification)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## Testing
 - *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## C++
 - *[AndroidTrainingFramework-AF](https://github.com/Lib3Rt9/AndroidTrainingFramework-AF) (PRIVATE)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## Python
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/MostFrequency)*
@@ -105,23 +105,23 @@ Some simple and  funny rules for prefix: :)
 - *[Image Converter](https://github.com/Lib3Rt9/ImageConverter)*
 - *[Placeholder for Video Converter](placeholder)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## Computer Vision
 - *[Hand Tracking](https://github.com/Lib3Rt9/HandTracking)*
 - *[Images Scaler](https://github.com/Lib3Rt9/ImageScaler)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## Machine Learning
 - *[100 Machine Learning Projects](https://github.com/Lib3Rt9/100MLProjects) (FORKED)*
 
-##################################################################
+-----------------------------------------------------------------
 
 ## sort by projects
 
 - *[Infobip plugin for playSMS](https://github.com/Lib3Rt9/playSMS-Infobip-plugin)*
 
-##################################################################
+-----------------------------------------------------------------
 
 **Have fun!**
