@@ -85,6 +85,9 @@ Some simple and  funny rules for prefix: :)
 ***Modeling and Simulation of complex system***
 - *[Driftwood - Self-regulating access to natural resources](https://github.com/Lib3Rt9/SkinCancerClassification)*
 
+***Advance Modeling Techniques***
+- *[Imitator](https://github.com/Lib3Rt9/Advance-Modeling-Techniques)*
+
 -----------------------------------------------------------------
 
 ## Testing
