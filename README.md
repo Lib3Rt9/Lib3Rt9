@@ -40,7 +40,8 @@ Some exciting common prefix rules: :)
 
 <details>
 <summary><b>Click to expand</b></summary>
-  
+
+### Bachelor degree
 *[**Web Application Development - LightUp - Multiplayer Draw-and-Guess game**](https://github.com/Lib3Rt9/LightUp)*
 
 *[**Computer Graphics - Learning OpenGL**](https://github.com/Lib3Rt9/Learn-OpenGL)*
@@ -57,7 +58,7 @@ Some exciting common prefix rules: :)
 
 -----------------------------------------------------------------
 
-## Master Works (Master degree)
+### Master degree
 ***System Architecture***
 - *[Chatting room](https://github.com/Lib3Rt9/SystemArchitecture)*
   
@@ -86,11 +87,6 @@ Some exciting common prefix rules: :)
 - *[Imitator](https://github.com/Lib3Rt9/Advance-Modeling-Techniques)*
 
 </details>
-
------------------------------------------------------------------
-
-## Testing
-- *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
 -----------------------------------------------------------------
 
@@ -123,6 +119,7 @@ Some exciting common prefix rules: :)
 ## other projects
 
 - *[Infobip plugin for playSMS](https://github.com/Lib3Rt9/playSMS-Infobip-plugin)*
+- *[A Git testing repository](https://github.com/Lib3Rt9/testGit)*
 
 -----------------------------------------------------------------
 
