@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Lib3Rt9/Lib3Rt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-# A thousand and one various projects
+## My A-thousand-and-one various projects
 
-*There are some projects I keep as [Private](https://github.com/Lib3Rt9/Private), and some are not updated.*
+*Some repositories are **private** or **not actively maintained**.  
+Please check individual projects for more details.*
 
 *So, for me-self, please check when accessing these projects.*
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------------
 
-Some simple and  funny rules for prefix: :)
+Some exciting common prefix rules: :)
 -    `+`    for a new feature
 -    `-`    for a modified feature
 -    `*`    for a bugfix
@@ -35,8 +36,10 @@ Some simple and  funny rules for prefix: :)
 
 -----------------------------------------------------------------
 
-## University Works
-
+## Academic Projects
+<details>
+<summary><b>Click to expand</b></summary>
+  
 ***Web Application Development***
 - *[LightUp - Multiplayer Draw-and-Guess game](https://github.com/Lib3Rt9/LightUp)*
 
@@ -87,6 +90,8 @@ Some simple and  funny rules for prefix: :)
 
 ***Advance Modeling Techniques***
 - *[Imitator](https://github.com/Lib3Rt9/Advance-Modeling-Techniques)*
+
+</details>
 
 -----------------------------------------------------------------
 
