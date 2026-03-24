@@ -121,7 +121,7 @@ Some simple and  funny rules for prefix: :)
 
 -----------------------------------------------------------------
 
-## sort by projects
+## other projects
 
 - *[Infobip plugin for playSMS](https://github.com/Lib3Rt9/playSMS-Infobip-plugin)*
 
