@@ -38,7 +38,7 @@ Some simple and  funny rules for prefix: :)
 ## University Works
 
 ***Web Application Development***
-- *[LightUp - Multiplayer Draw-and-Guess game](https://github.com/Lib3Rt9/LightUp)*
+- *[LightUp - Multiplayer Draw-and-Guess game](https://github.com/Lib3Rt9/LightUp)*(Web Application Development)
 
 ***Computer Graphics***
 - *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
