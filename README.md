@@ -41,15 +41,15 @@ Some exciting common prefix rules: :)
 <details>
 <summary><b>Click to expand</b></summary>
   
-***Web Application Development*** -> *[LightUp - Multiplayer Draw-and-Guess game](https://github.com/Lib3Rt9/LightUp)*
+*[**Web Application Development - LightUp - Multiplayer Draw-and-Guess game**](https://github.com/Lib3Rt9/LightUp)*
 
-***Computer Graphics*** -> *[Learning OpenGL](https://github.com/Lib3Rt9/Learn-OpenGL)*
+*[**Computer Graphics - Learning OpenGL**](https://github.com/Lib3Rt9/Learn-OpenGL)*
 
-***Internship*** -> *[Crop (Weed) Analysis on UAV Images (Deep Learning)](https://github.com/Lib3Rt9/CropWeedSegmentation)*
+*[**Internship - Crop (Weed) Analysis on UAV Images (Deep Learning)**](https://github.com/Lib3Rt9/CropWeedSegmentation)*
 
 *[**Database**](https://github.com/aidenpearce001/University-s-Project/tree/main/Basic%20Database)*
 
-***Mobile Application Development*** -> *[Music Player (Android)](https://github.com/Lib3Rt9/androiddev2022)*
+*[**Mobile Application Development - Music Player (Android)**](https://github.com/Lib3Rt9/androiddev2022)*
 
 *[**Advanced Programming with Python**](https://github.com/Lib3Rt9/pp2021)*
 
