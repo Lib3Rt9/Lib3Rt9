@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 *Some repositories are **private** or **not actively maintained**.  
 Please check individual projects for more details.*
 
-*So, for me-self, please check when accessing these projects.*
-
 *Have fun!*
 
 -----------------------------------------------------------------
