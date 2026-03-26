@@ -36,9 +36,11 @@ Some exciting common prefix rules: :)
 
 -----------------------------------------------------------------
 
-## <details>
-<summary><b>Academic Projects</b></summary>
+## Academic Projects
 
+<details>
+<summary><b>Click to expand</b></summary>
+  
 ### Bachelor degree
 *[**Web Application Development - LightUp - Multiplayer Draw-and-Guess game**](https://github.com/Lib3Rt9/LightUp)*
 
